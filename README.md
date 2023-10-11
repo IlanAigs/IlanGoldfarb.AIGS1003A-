@@ -27,6 +27,11 @@ The probability of both events occurring under the Naive Bayes assumptions is eq
 This is because the probability of occurrence of each data point in the data set is equal, 
 and thus the result of our equation is equal.
 
+Comments on the Python code:
+In respect to the naiveBayes file, the results come form the "trainAndTune" function only. I was not able to call the
+the function from "findHighOddsFeatures". I did leave the code in "findHighOddsFeatures" commentad out for you to see.
+
+
 
 
 Sources:
